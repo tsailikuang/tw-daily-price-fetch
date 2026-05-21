@@ -5,8 +5,8 @@ import yfinance as yf
 
 # 你要追蹤的台股標的（Yahoo Finance 代碼）
 TICKERS = [
-    "00772B.TW",  # 中信高評級公司債
-    "00679B.TW",  # 元大美債20年
+    "00772B.TWO",  # 中信高評級公司債
+    "00679B.TWO",  # 元大美債20年
     "2890.TW",    # 永豐金
 ]
 
