@@ -11,8 +11,8 @@ import yfinance as yf
 
 # 這裡填你要追蹤的三支股票（用 Yahoo 的 ticker 寫）
 STOCK_TICKERS = [
-    "0050.TW",
-    "2330.TW",
+    "2890.TW",
+    "00679B.TWO",
     "00772B.TWO",
 ]
 
